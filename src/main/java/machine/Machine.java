@@ -134,7 +134,6 @@ public class Machine{
         }
     }
 
-
     public Message resume(){
         Message message;
 
